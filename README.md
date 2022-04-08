@@ -1,0 +1,2 @@
+# WordPress Plugin with Remote Config Example
+This WordPress plugin load a json-config from an url. It is only designed to serve as simple example without particular intention to follow best practices.
